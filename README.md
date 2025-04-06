@@ -1,4 +1,4 @@
-# Task2
+![image](https://github.com/user-attachments/assets/999b319e-2861-40ee-9c4b-7941112e7ceb)# Task2
 List the available shells in your system.
 ![WhatsApp Image 2025-04-06 at 2 00 59 PM](https://github.com/user-attachments/assets/3f4d9ad3-351b-4384-ba5b-5f36209d77e0)
 
@@ -33,14 +33,29 @@ Use cut to extract the second column of a file called data.csv.
 ![image](https://github.com/user-attachments/assets/40a9de1b-9964-485c-aea3-b3b44be8baaf)
 
 Search for all lines in a file called log.txt that contain the word "ERROR" using grep.
+![image](https://github.com/user-attachments/assets/46c298b7-581c-4c66-b3b3-ac254d03d107)
 
 Create a shell variable called current_user to store the output of the whoami command.
+![image](https://github.com/user-attachments/assets/4dcb885d-d00e-4f06-bc4f-da1517d4beec)
+
 Use tr to convert a string of lowercase letters to uppercase.
+![image](https://github.com/user-attachments/assets/602721d8-35c8-4a4a-b4fc-848ae683fc74)
+
 Use a pipe to send the output of ps to grep to search for a specific process name.
+![image](https://github.com/user-attachments/assets/fd3874cf-52bb-4b6e-9c65-f52cae535154)
+
 Create a Bash alias named ls for the command ls -l.
+![image](https://github.com/user-attachments/assets/4b542f8e-5769-44ea-a6ca-d4dc994a8c5c)
+
 Use sort to sort the output of ls -l by file size.
+![image](https://github.com/user-attachments/assets/af09f9fa-b8da-4240-b359-54c3280aefd1)
 
 Use grep to count the number of lines that contain the word "success" in a file.
+![image](https://github.com/user-attachments/assets/f38302cc-5ae3-43d9-a78e-f259a02de39d)
+
 Redirect the output of the dmesg command to a file and view the first 20 lines using head.
+![image](https://github.com/user-attachments/assets/8c48d306-3745-42f4-b14d-1623c599b927)
+
 Use cut to extract the first field from a CSV file and display it.
+![image](https://github.com/user-attachments/assets/f7edc2e9-6f0c-4a9c-8de1-1de2d4fb10e3)
 
