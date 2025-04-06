@@ -30,8 +30,10 @@ Use head to view the first 10 lines of a file, and tail to view the last 10 line
 ![image](https://github.com/user-attachments/assets/3387fdc7-6651-40f0-9833-5ea3176a61de)
 
 Use cut to extract the second column of a file called data.csv.
+![image](https://github.com/user-attachments/assets/40a9de1b-9964-485c-aea3-b3b44be8baaf)
 
 Search for all lines in a file called log.txt that contain the word "ERROR" using grep.
+
 Create a shell variable called current_user to store the output of the whoami command.
 Use tr to convert a string of lowercase letters to uppercase.
 Use a pipe to send the output of ps to grep to search for a specific process name.
